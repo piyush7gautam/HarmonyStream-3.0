@@ -175,12 +175,5 @@ Content approval workflow
 Conclusion
 
 Harmony Stream 3.0 is a complete full-stack web application that demonstrates modern web development practices. The project successfully integrates frontend, backend, and database layers while implementing real-world features such as role management and content moderation.
-Project Team
+Developed By Piyush Kumar Gautam
 
-CodexCrew
-
-Piyush Kumar Gautam (Leader)
-
-Anuj Rajpoot
-
-Sanad Shakya
